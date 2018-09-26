@@ -1,4 +1,5 @@
-##INSTANCE
+INSTANCE
+==========
 
 EC2 instance used for dev. This document describes change notes and configuration details.
 
